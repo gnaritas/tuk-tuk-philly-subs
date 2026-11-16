@@ -1,0 +1,8 @@
+{
+  "name": "tuk-tuk-philly-subs",
+  "version": "1.0.0",
+  "description": "Tuk Tuk Philly Subs — Philly-style cheesesteak and sub shop at 1110 E Main St, Richmond VA (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
