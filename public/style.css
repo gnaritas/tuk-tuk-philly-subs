@@ -83,6 +83,7 @@ section.tight{padding:42px 0}
 .mgroup{margin:0 0 38px}
 .mgroup h3{display:flex;align-items:center;gap:14px;color:var(--ink);border-bottom:2px solid var(--gold);padding-bottom:8px}
 .mgroup h3 .tag{margin-left:auto;font:700 12px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--gold2)}
+.mgroup .gd{margin:12px 0 0;color:var(--ink2)}
 .mitem{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 18px;padding:14px 0;border-bottom:1px dashed var(--line)}
 .mitem:last-child{border-bottom:0}
 .mitem .nm{font:700 17px/1.35 var(--display);letter-spacing:.04em;text-transform:uppercase}
